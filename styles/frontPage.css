@@ -1,0 +1,10 @@
+.header{
+    height: 400px;
+    background-color: #faf3e0;
+}
+.title{
+    color: #5b5b5b;
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
